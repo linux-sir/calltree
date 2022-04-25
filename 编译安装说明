@@ -35,3 +35,7 @@ dot -Tpdf ./trace_main.dot -o trace_main.pdf
 # 若没有安装dot命令
 sudo apt-get install graphviz
 ```
+
+
+# 附加
+calltree-2.3.tar.bz2 是原始包,需要按https://www.jianshu.com/p/da5086f9f91d 这里的说明来操作
